@@ -1,0 +1,27 @@
+{
+  "name": "phonograph-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kslr/phonograph-telegram.git"
+  },
+  "author": "Kslr <hi@kslr.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kslr/phonograph-telegram/issues"
+  },
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^1.5.2",
+    "async": "latest",
+    "music-api": "^0.2.7",
+    "node-telegram-bot-api": "latest",
+    "request": "latest",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {}
+}
