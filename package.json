@@ -18,7 +18,7 @@
   "dependencies": {
     "NeteaseCloudMusicApi": "^1.5.2",
     "async": "latest",
-    "music-api": "^0.2.7",
+    "music-api": "^0.3.0",
     "node-telegram-bot-api": "latest",
     "request": "latest",
     "uuid": "^3.0.1"
