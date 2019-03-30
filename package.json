@@ -16,7 +16,7 @@
     "url": "https://github.com/kslr/phonograph-telegram/issues"
   },
   "dependencies": {
-    "NeteaseCloudMusicApi": "^1.5.2",
+    "NeteaseCloudMusicApi": "^3.0.0",
     "async": "latest",
     "music-api": "^0.2.7",
     "node-telegram-bot-api": "latest",
