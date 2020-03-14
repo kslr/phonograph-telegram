@@ -21,7 +21,7 @@
     "music-api": "^0.3.0",
     "node-telegram-bot-api": "latest",
     "request": "latest",
-    "uuid": "^3.0.1"
+    "uuid": "^7.0.0"
   },
   "devDependencies": {}
 }
